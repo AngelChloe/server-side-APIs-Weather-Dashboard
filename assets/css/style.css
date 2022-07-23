@@ -1,41 +1,57 @@
 /* background image and sizing to cover entire page */
 body {
     background-size: cover;
-    color
 }
 
 .card-header {
    background-color: rgb(245, 106, 129); 
 }
+
+.card-body {
+    background-color: rgb(128, 144, 235);
+
+    /* background-color: rgb(69, 148, 238);  */
+}
 h1 {
     /* margin-top: 50px; */
-    height: 50px;
-	background-color: rgb(141, 153, 224);
+    font-size: 75px;
+    height: 200px;
+    background-color: rgb(112, 170, 236);  
+	/* background-color: rgb(141, 153, 224); */
     text-align: center;
 }
 label {
-	margin-top: 10px;
+    margin-top: 10px;
 	font-weight: bold;
 	font-size: 20px;
 }
 .card {
 	margin: 10px;
-}
-.colOne {
-	background-color: rgb(141, 153, 224);
+}   
+ .colOne {
+    width: 20px;
+    background-color: rgb(231, 184, 83);
+    /* background-color: rgb(235, 197, 116); */
 }
 .colTwo {
     background-image: url("https://th.bing.com/th/id/R.0c75cfb96ec8dec51a51836d02bc38cf?rik=ZyLx6DekRpCiqA&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f07%2fWeather-Desktop-Picture.jpg&ehk=di0WfDJwu%2b77RhSlqdYV3GJWwnabD8X6lt5sN4fgIgU%3d&risl=&pid=ImgRaw&r=0");
    
 }
 .histBtnRow {
-	margin-top: 5px;
+    background-color: white;
+    max-width: fit-content;
+    margin-top: 5px;
 	margin-bottom: 5px;
 }
 .icons {
-	height: 70px;
+    height: 70px;
 	width: 70px;
 }
 .cardTodayDate {
 	font-size: 20px;
+}
+
+.clearLocations {
+    text-decoration-color: black;
+    background-color: white;
 }
