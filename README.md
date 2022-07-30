@@ -3,7 +3,6 @@ Cindy Chynoweth
 Server-Side APIs: Weather Dashboard
 
 As a traveler I want to see the weather outlook for multiple cities; so that I can plan a trip accordingly
- 
 
 Acceptance Criteria
 
@@ -22,6 +21,12 @@ GIVEN a weather dashboard with form inputs:
 github link:
 https://github.com/Cinderbeast/server-side-API-s
 
-Live Link:l 
+Live Link: 
+https://cinderbeast.github.io/server-side-API-s/
 
-Screen shot of Wheather map
+Credits:
+Openweathermap.org
+https://stock.adobe.com/royalty_free/images
+
+
+Screen shot of Weather map
