@@ -25,7 +25,8 @@ Live Link:
 https://cinderbeast.github.io/server-side-API-s/
 
 Credits:
-Openweathermap.org
+https://openweathermap.org
+
 https://stock.adobe.com/royalty_free/images
 
 
