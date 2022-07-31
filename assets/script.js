@@ -157,11 +157,7 @@ $(document).ready(function(){
         } 
     getWeather("Ogden");
     });
-    $("#previousSearch").click(function() {
-        let cityName = event.target.value;
-        returnCurrentWeather(cityName);
-        returnWeatherForecast(cityName);
-    });
+   
     // clear search history button 
         $("#clearButton").on("click", function () {
         $("#localWeatherSearches").empty();
