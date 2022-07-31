@@ -10,7 +10,7 @@ body {
     background-color: rgb(245, 106, 129);
 }
 
-/* coloring of box containig current weather for specified location */
+/* background image of box containing current weather for specified location */
 .CurrentWeather4 {
     background-image: url("https://th.bing.com/th/id/R.3103692485b1ee5e9c053f43f94f1370?rik=52ytGFW76tbGjw&pid=ImgRaw&r=0");
 }
