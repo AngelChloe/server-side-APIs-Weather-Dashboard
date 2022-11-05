@@ -20,8 +20,7 @@ GIVEN a weather dashboard with form inputs:
 - I am again presented with current and future conditions for that city
 
 [Github link](https://github.com/Cinderbeast/server-side-API-s)
-
-[Live Link](https://cinderbeast.github.io/server-side-API-s/)
+[Live Link](https://cinderbeast.github.io/server-side-APIs-Weather-Dashboard)
 
 Credits:
 - https://openweathermap.org
