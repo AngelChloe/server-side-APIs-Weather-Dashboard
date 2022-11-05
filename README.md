@@ -21,12 +21,11 @@ GIVEN a weather dashboard with form inputs:
 
 [Github link](https://github.com/Cinderbeast/server-side-API-s)
 
-[Live Link](https://cinderbeast.github.io/server-side-API-s/]
+[Live Link](https://cinderbeast.github.io/server-side-API-s/)
 
 Credits:
-https://openweathermap.org
-
-https://stock.adobe.com/royalty_free/images
+- https://openweathermap.org
+- https://stock.adobe.com/royalty_free/images
 
 
 Screen shot of Weather map
