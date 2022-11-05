@@ -19,11 +19,9 @@ GIVEN a weather dashboard with form inputs:
 - I click on a city in the search history
 - I am again presented with current and future conditions for that city
 
-github link:
-https://github.com/Cinderbeast/server-side-API-s
+[Github link](https://github.com/Cinderbeast/server-side-API-s)
 
-Live Link: 
-https://cinderbeast.github.io/server-side-API-s/
+[Live Link](https://cinderbeast.github.io/server-side-API-s/]
 
 Credits:
 https://openweathermap.org
