@@ -1,12 +1,12 @@
-Cindy Chynoweth
+## Cindy Chynoweth
 
-Server-Side APIs: Weather Dashboard
+## Server-Side APIs: Weather Dashboard
 
 As a traveler I want to see the weather outlook for multiple cities; so that I can plan a trip accordingly
 
-Acceptance Criteria
+## Acceptance Criteria
 
-GIVEN a weather dashboard with form inputs:
+## GIVEN a weather dashboard with form inputs:
 - I search for a city
 - I am presented with current and future conditions for that city and that city is added to the search history
 - I view current weather conditions for that city
@@ -19,13 +19,19 @@ GIVEN a weather dashboard with form inputs:
 - I click on a city in the search history
 - I am again presented with current and future conditions for that city
 
-[Github link](https://github.com/Cinderbeast/server-side-API-s)
-[Live Link](https://cinderbeast.github.io/server-side-APIs-Weather-Dashboard)
 
-Credits:
+## Screen shot of Weather map
+![WeatherDashBoard](https://user-images.githubusercontent.com/105569378/182039569-a3473fc0-4751-4559-9bc9-6ddb6c70f6ed.png)
+
+## Live Link
+https://cinderbeast.github.io/server-side-APIs-Weather-Dashboard
+
+## Github link
+https://github.com/Cinderbeast/server-side-API-s
+
+## Credits:
 - https://openweathermap.org
 - https://stock.adobe.com/royalty_free/images
 
-
-Screen shot of Weather map
-![WeatherDashBoard](https://user-images.githubusercontent.com/105569378/182039569-a3473fc0-4751-4559-9bc9-6ddb6c70f6ed.png)
+## Authors and Acknowledgements
+Created by University of Utah Coding Bootcamp Student, Cindy Chynoweth with the help of other AMAZING developer's out there
