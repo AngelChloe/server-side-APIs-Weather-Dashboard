@@ -24,7 +24,7 @@ As a traveler I want to see the weather outlook for multiple cities; so that I c
 ![WeatherDashBoard](https://user-images.githubusercontent.com/105569378/182039569-a3473fc0-4751-4559-9bc9-6ddb6c70f6ed.png)
 
 ## Live Link
-https://cinderbeast.github.io/server-side-APIs-Weather-Dashboard
+https://angelchloe.github.io/server-side-APIs-Weather-Dashboard/
 
 ## Github link
 https://github.com/AngelChloe/server-side-APIs-Weather-Dashboard/
