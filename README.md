@@ -27,7 +27,7 @@ As a traveler I want to see the weather outlook for multiple cities; so that I c
 https://cinderbeast.github.io/server-side-APIs-Weather-Dashboard
 
 ## Github link
-https://github.com/Cinderbeast/server-side-API-s
+https://github.com/AngelChloe/server-side-APIs-Weather-Dashboard/
 
 ## Credits:
 - https://openweathermap.org
